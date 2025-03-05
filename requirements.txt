@@ -1,0 +1,10 @@
+streamlit
+solana
+requests
+web3
+numpy
+pandas
+plotly
+matplotlib
+python-dotenv
+asyncio
